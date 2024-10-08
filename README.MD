@@ -1,4 +1,4 @@
-# Modul Kontrol PID untuk Kursus Laboratorium Fisika
+# Modul Kontrol PID untuk Pembelajaran
 
 ## Gambaran Umum
 
